@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "tworobots",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
